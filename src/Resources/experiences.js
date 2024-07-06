@@ -1,24 +1,24 @@
+
 export const experiences = [
     {
       company: "Creative Agency",
       title: "Graphic Designer",
       period: "Feb 2023 - Present",
-      description:
-        "Designed user interfaces, logos, and marketing materials for various clients, utilizing Adobe Creative Suite.",
+      experience: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
     },
     {
       company: "Startup Z",
       title: "Web Developer (Freelance)",
       period: "Oct 2020 - Jan 2023",
-      description:
-        "Designed and developed user-friendly websites for a startup company using HTML, CSS, and JavaScript.",
+      experience: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
     },
     {
       company: "University Art Department",
       title: "Teaching Assistant",
       period: "Sep 2018 - May 2020",
-      description:
-        "Assisted professors with graphic design courses, providing feedback on student projects and demonstrations.",
+      experience: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
   ];
   
