@@ -1,5 +1,5 @@
 
-export const experiences = [
+export const experience = [
     {
       company: "Creative Agency",
       title: "Graphic Designer",
