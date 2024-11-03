@@ -67,7 +67,7 @@ function AdminAbout() {
 
         <div className="flex justify-end w-full">
           <Button className="px-10 py-2 bg-primary text-white" type="primary" htmlType="submit">
-            Save
+              Save Button
           </Button>
         </div>
       </Form>
